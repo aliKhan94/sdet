@@ -10,7 +10,7 @@ public class Activity1_1 {
 		carName.color = "Black";
 		carName.transmission = "Manual";
 		
-		//
+		//calling class Car methods
 		carName.displayCharacteristics();
 		carName.accelarate();
 		carName.brake();
